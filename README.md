@@ -25,7 +25,7 @@ This project was created as a basis for a better use of [Yabai](https://github.c
 
 ### Download
 
-To download this project, please do: `git clone https://gitlab.com/tun43p/dovahkill.git`.
+To download this project, please do: `git clone https://github.com/tun43p/dovahkill.git`.
 
 ### How it works
 
@@ -47,7 +47,7 @@ To set the size of the OSX Dock, please do: `sh dovahkill.sh -s 50` or `sh dovah
 
 ## Authors
 
-**tun43p** - _Initial work_ - [tun43p](https://gitlab.com/tun43p).
+**tun43p** - _Initial work_ - [tun43p](https://github.com/tun43p).
 
 ## License
 

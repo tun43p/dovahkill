@@ -14,7 +14,7 @@ info() {
 	░                    ░                                                
 
 	Author: tun43p
-	Repository: https://gitlab.com/tun43p/dovahkill
+	Repository: https://github.com/tun43p/dovahkill
 	"
 }
 
